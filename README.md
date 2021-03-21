@@ -1,2 +1,1 @@
-# nextjs_blog
-Next.js の チュートリアル
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
